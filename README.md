@@ -10,25 +10,10 @@ Comprehensive training and testing datasets for performance validation.
 
 Step-by-step implementation for beginners and experts alike.
 
-Table of Contents
-Introduction
+Table of Contents:
 
-Getting Started
-
-Usage
-
-Results
-
-Contributing
-
-License
-
-Introduction
+Introduction:
 Battery SOC prediction plays a vital role in managing battery performance and longevity. This project combines the power of Simulink for modeling and Neural Networks for intelligent SOC estimation. The solution is designed for researchers, engineers, and developers looking to incorporate machine learning techniques into battery management systems.
-
-Getting Started
-Prerequisites
-MATLAB R2021b or later with Simulink.
 
 Neural Network Toolbox.
 
